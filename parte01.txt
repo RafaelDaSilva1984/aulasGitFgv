@@ -1,1 +1,4 @@
-Aki é a branch criada nome testes-conflitos
+
+Aki é a strings da branch main.
+
+Aki é a branch criada nome testes-conflitos.
