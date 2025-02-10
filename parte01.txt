@@ -4,3 +4,4 @@ conflitos entre repositórios e branchs
 branch testes-conflitos
 
 
+mergeando entre branchs
