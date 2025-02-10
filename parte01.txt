@@ -1,13 +1,1 @@
-conflitos entre repositórios e branchs
-
-
-branch testes-conflitos
-
-
-<<<<<<< HEAD
-mergeando entre branchs
-=======
-testes na branch main
-
-merge
->>>>>>> main
+Aki é a branch criada nome testes-conflitos
