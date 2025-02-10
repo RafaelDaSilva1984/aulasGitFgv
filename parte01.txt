@@ -1,9 +1,2 @@
-conflitos entre repositórios e branchs
+Ali é a branch main.
 
-
-branch testes-conflitos
-
-
-testes na branch main
-
-merge
