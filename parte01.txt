@@ -1,5 +1,4 @@
-teste1
-teste2
+conflitos entre repositórios e branchs
 
 
 
